@@ -2,7 +2,7 @@
 A list of advice on doing research that is useful for me :)
 
 
-**How to be a good a graduate student:**
+**How to be a good graduate student:**
 
 - [How to Succeed in Graduate School: A Guide for Students and Advisors](https://www.csee.umbc.edu/~mariedj/papers/advice.pdf) By Marie desJardins.
 - [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) By Andrej Karpathy.
