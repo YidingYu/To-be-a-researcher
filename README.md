@@ -15,3 +15,5 @@ A list of advice on doing research that is useful for me :)
 - [A log file on common writting mistakes](https://staff.ie.cuhk.edu.hk/~soung/LogWriting.pdf) by my supervisor Professor Soung Chang Liew.
 - [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) by Henning Schulzrinne.
 - [Ten Simple Rules for Mathematical Writing](http://www.mit.edu/~dimitrib/Ten_Rules.html) by Dimitri P. Bertsekas.
+- [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) by  Michael Ernst.
+- [Norman Ramsey's Resources for Writers](https://www.cs.tufts.edu/~nr/students/writing.html) by Norman Ramsey.
