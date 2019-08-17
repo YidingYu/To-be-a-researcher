@@ -1,5 +1,5 @@
 # To Be A Researcher
-A list of advice on doing research:)
+A list of advice on doing research :)
 
 
 **How to be a good graduate student:**
